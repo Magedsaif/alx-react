@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "image-minimizer-webpack-plugin": "^4.0.0",
+    "mini-css-extract-plugin": "^2.7.7"
+  }
+}
