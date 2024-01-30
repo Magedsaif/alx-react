@@ -1,0 +1,28 @@
+.App-header {
+  color: red;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+}
+.myHr {
+  border: 0;
+  height: 2px;
+  background: red;
+}
+
+.App-body {
+  padding: 20px; /* Add padding around the content */
+
+  height: 1000px; /* Set a specific height */
+  overflow-y: auto; /* Add a scrollbar if the content is too long */
+}
+
+.App-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
