@@ -3,7 +3,7 @@
   padding: 20px;
   color: red;
   border-bottom: 3px solid red;
-  display: flex;
+  display: flex;  
 }
 .App-header h1 {
   margin-top: 30px;
@@ -11,7 +11,7 @@
 }
 
 .App-logo {
-  width: 100px;
+  width: 100px; 
   height: auto;
-  margin-right: 10px;
+  margin-right: 10px; 
 }
